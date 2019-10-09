@@ -1,7 +1,7 @@
 # Kaggle IEEE Fraud Detection Challenge
 
 This project was a part of my second assignment in Data Science Fundamentals under Steven Skiena which involved participating in an ongoing Kaggle challenge. This project involved solving the questions posted in 
-"Kaggle Challenge"
+"Kaggle Challenge" https://github.com/abdullahmitkar/kaggle-ieee-fraud-detection/blob/master/Kaggle%20Challenge.pdf
 
 
 
